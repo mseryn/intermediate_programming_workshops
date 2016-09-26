@@ -8,15 +8,11 @@ def sort_items_by_color(input_list, color_order = ["red", "orange", "yellow", "g
         List of items sorted by colors listed in ordered list
     """
     
-return_list = []
-    for color in color_order:
-        for item in input_list:
-            if item.get_color == color:
-                return_list.append(item)
-    return return_list
     return_list = []
+
     for color in color_order:
         for item in input_list:
-            if item.get_color == color:
+            if item.get_color() == color:
                 return_list.append(item)
+
     return return_list

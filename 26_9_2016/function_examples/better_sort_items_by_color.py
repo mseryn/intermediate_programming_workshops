@@ -10,8 +10,9 @@ def sort_items_by_color(input_list, color_order = ["red", "orange", "yellow", "g
 
     return_list = []
     items_by_color = {}
-for color in color_order:
-    items_by_color[color] = []
+
+    for color in color_order:
+        items_by_color[color] = []
     
     for item in input_list:
         items_by_color[item.get_color()].append(item)
