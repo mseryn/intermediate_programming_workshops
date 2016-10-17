@@ -1,0 +1,9 @@
+x_y_5773672638_duplicates_NO_ERROR_FOUND.txt
+
+File was taken with duplicates included
+Data was gathered on run 577 using machine 3672638
+No errors were found during the test
+
+Data is formatted so x and y coordinate pairs are on each line separated by one space.
+
+Data is all of integer form.

@@ -1,0 +1,18 @@
+In groups of 2 or 3:
+Using data in x_y_5773672638_duplicates_NO_ERROR_FOUND.txt and the corresponding description, collect both sets of points.
+For the x coordinates, find the median and the mode.
+For the y coordinates, find the mean and the range.
+For each pair of coordinates, find the biggest difference out of all data.
+Print all of these values to the console, and be sure to say what you’re printing!
+IE, do:
+        X coordinate median = #
+        X coordinate mode = #
+        Y coordinate mean = #
+        Y coordinate range = from # to #
+        Biggest difference = # between points # and #
+do not:
+        #
+        #
+        #
+        # to #
+        #
